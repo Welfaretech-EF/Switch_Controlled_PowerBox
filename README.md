@@ -1,2 +1,4 @@
-# Switch_Controlled_Power
- Box for controlling a RF controlled power plug using a switch
+# Switch Controlled Power Box
+ Box for controlling an RF controlled power plug using a switch
+
+#
