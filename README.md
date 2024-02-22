@@ -17,3 +17,7 @@ Arduino Nano or similar + USB cable
 Female 3.5mm socket
 
 Momentary button
+
+# Assembly
+In order to assemble the circuit, the following frizting sketch has been designed
+![Fritzing](https://github.com/Welfaretech-EF/Switch_Controlled_PowerBox/blob/main/Images/Fritzing.png?raw=true)
