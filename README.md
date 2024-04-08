@@ -20,3 +20,6 @@ In order to assemble the circuit, the following frizting sketch has been designe
 
 # Decoding an RF device
 Since every RF device uses different codes, you'll need to decode the signal beforehand and replace the two variables "ON_BITS" and "OFF_BITS" in the Arduino code. There are several tutorials online for decoding, but one example is: https://randomnerdtutorials.com/decode-and-send-433-mhz-rf-signals-with-arduino/
+
+# 3D Printed case
+A 3d printable custom case has been designed, enclosing all the electronics. All the stl files can be found in the "3D Models" folder.
