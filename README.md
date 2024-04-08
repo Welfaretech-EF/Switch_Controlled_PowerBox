@@ -1,8 +1,23 @@
 # Switch Controlled Power Box
- Box for controlling an RF controlled power plug using a switch
+People with motor disabilities might not be able to power on household devices in a usual manner. Solutions do exist, that makes it possible to power on a device, with the control of a switch. However,  these solutions are often quite expensive and less portable, since they often work as a direct link between two power cables.
 
-# Third party
+This project is a cheap and simple approach, for controlling a power outlet remotely with the push of a switch/button.
 
-# Decoding signal for another device
-In order to use the code with your own devices, the RF code must be decoded and copied into the code. There are several tutorials for doing this, but one example is:
-https://randomnerdtutorials.com/decode-and-send-433-mhz-rf-signals-with-arduino/
+The box is able to control an RF controlled (On/Off) device, such as a remote-controlled power plug, without the need for wifi or bluetooth.
+
+![Sketch](https://github.com/Welfaretech-EF/Switch_Controlled_PowerBox/blob/main/Images/Sketch.png?raw=true)
+
+# Requirements
+Arduino Nano or similar + USB cable
+
+433MHz Transmitter
+
+0/1 Switch
+
+Female 3.5mm socket
+
+Momentary button
+
+# Assembly
+In order to assemble the circuit, the following frizting sketch has been designed
+![Fritzing](https://github.com/Welfaretech-EF/Switch_Controlled_PowerBox/blob/main/Images/Fritzing.png?raw=true)
