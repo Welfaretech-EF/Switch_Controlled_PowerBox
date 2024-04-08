@@ -1,9 +1,9 @@
 #include "RCSwitch.h"
 RCSwitch mySwitch = RCSwitch();
 
-// The codes for turning the RF receiving device on and off.
+// The codes for turning the RF receiving device on and off (must be changed to your own device)
 const char* ON_BITS = "000001010101010100110011";
-const char* OFF_BITS = "000001010101010100110011";
+const char* OFF_BITS = "000001010101010100111100";
 
 long lastBuzz = 0;
 bool ison = false;
