@@ -17,3 +17,6 @@ The box is able to control an RF controlled (On/Off) device, such as a remote-co
 # Assembly
 In order to assemble the circuit, the following frizting sketch has been designed
 <img src="https://github.com/Welfaretech-EF/Switch_Controlled_PowerBox/blob/main/Images/Fritzing.png" width="512">
+
+# Decoding an RF device
+Since every RF device uses different codes, you'll need to decode the signal beforehand and replace the two variables "ON_BITS" and "OFF_BITS" in the Arduino code. There are several tutorials online for decoding, but one example is: https://randomnerdtutorials.com/decode-and-send-433-mhz-rf-signals-with-arduino/
