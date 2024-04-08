@@ -5,7 +5,7 @@ This project is a cheap and simple approach, for controlling a power outlet remo
 
 The box is able to control an RF controlled (On/Off) device, such as a remote-controlled power plug, without the need for wifi or bluetooth.
 
-<img src="https://github.com/Welfaretech-EF/Switch_Controlled_PowerBox/blob/main/Images/Sketch.png" width="100">
+<img src="https://github.com/Welfaretech-EF/Switch_Controlled_PowerBox/blob/main/Images/Sketch.png" width="512">
 
 # Requirements
 * Arduino Nano or similar + USB cable
@@ -16,4 +16,4 @@ The box is able to control an RF controlled (On/Off) device, such as a remote-co
 
 # Assembly
 In order to assemble the circuit, the following frizting sketch has been designed
-<img src="https://github.com/Welfaretech-EF/Switch_Controlled_PowerBox/blob/main/Images/Fritzing.png" width="100">
+<img src="https://github.com/Welfaretech-EF/Switch_Controlled_PowerBox/blob/main/Images/Fritzing.png" width="512">
