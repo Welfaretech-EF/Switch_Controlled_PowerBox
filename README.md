@@ -8,15 +8,11 @@ The box is able to control an RF controlled (On/Off) device, such as a remote-co
 ![Sketch](https://github.com/Welfaretech-EF/Switch_Controlled_PowerBox/blob/main/Images/Sketch.png?raw=true)
 
 # Requirements
-Arduino Nano or similar + USB cable
-
-433MHz Transmitter
-
-0/1 Switch
-
-Female 3.5mm socket
-
-Momentary button
+*Arduino Nano or similar + USB cable
+*433MHz Transmitter
+*0/1 Switch
+*Female 3.5mm socket
+*Momentary button
 
 # Assembly
 In order to assemble the circuit, the following frizting sketch has been designed
